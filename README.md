@@ -1,1 +1,25 @@
-Ansible_Windows
+# Ansible_Windows
+# Программы
+
+1. Battle.net - [ ]
+2. Dicord - [ ]
+3. Docker - [ ]
+4. Epic Games Laucher - [ ]
+5. GitKraken [ ]
+6. Google Chrome [ ]
+7. MobaXterm [ ]
+8. MSI Afterburner [ ]
+9. OBS Studio [ ]
+10. Origin [ ]
+11. PureRef [ ]
+12. Spotify [ ]
+13. Tor Browser [ ]
+14. Steam Desktop Authenticator [ ]
+15. Steam [ ]
+16. TeamViewer [ ]
+17. Telegram [ ]
+18. Unreal Engine [ ]
+19. uTorrent [ ]
+20. Visual Studio Code [ ]
+21. WhatsApp [ ]
+22. Корзина(RemoveBin) [ ]
