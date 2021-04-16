@@ -1,0 +1,6 @@
+name: WINDOWS_POST_INSTALL
+hosts: all
+become:yes
+
+ -name: test
+    copy: 
